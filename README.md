@@ -78,7 +78,7 @@ This project is open-source and available under the MIT License. See the `LICENS
 
 For any questions or suggestions, feel free to reach out:
 
-- **Email**: yourname@example.com
+- **Email**: anasiosdev@gmail.com
 - **GitHub**: [@yt-anas](https://github.com/yt-anas)
 
 ---
